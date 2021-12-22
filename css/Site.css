@@ -447,7 +447,8 @@
 		        }
 
 		        iframe{
-		        margin-left: -40px;
+		        margin-left: 0;
+			padding-right:20px;	
 		        margin-top: 50px;
 		        margin-bottom: 100px;
 		        }
