@@ -440,14 +440,14 @@
 	
 		        .c{
 		        margin-top: -70px;	
-                background-color: black;
+                        background-color: black;
 		        background-repeat: no-repeat;
 		        height: 550px;
 		        width: 263px;	
 		        }
 
 		        iframe{
-		        margin-left: 2px;
+		        margin-left: none;
 		        margin-top: 50px;
 		        margin-bottom: 100px;
 		        }
