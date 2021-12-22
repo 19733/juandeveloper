@@ -447,8 +447,7 @@
 		        }
 
 		        iframe{
-		        margin-left: 0;
-			margin-right:10px;	
+		        margin-left: -40px;
 		        margin-top: 50px;
 		        margin-bottom: 100px;
 		        }
@@ -470,7 +469,7 @@
 		        .z{
 		        }
 
-				}
+			}
 
 
 
