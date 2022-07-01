@@ -93,9 +93,9 @@
 
 		        .videotainer iframe{
 		        position: absolute;
-		        width: 50%;
-		        height: 50%;	
-		        margin-top: 180px;
+		        width: 37%;
+		        height: 40%;	
+		        margin-top: 160px;
 		        margin-left: 265px;	
 		        }
 
@@ -185,9 +185,11 @@
 		        width: 725px;	
 		        }
 
-		        iframe{
-		        margin-top: 120px;
-		        margin-left: 180px;	
+		        .videotainer iframe{
+		        margin-top: 100px;
+		        margin-left: 170px;	
+				height: 22%;
+				width: 50%;
 		        }
 
 		        .title{	
@@ -365,7 +367,7 @@
 		        .videotainer iframe{
 		        position: absolute;
 		        width: 60%;
-		        height: 20%;	
+		        height: 15%;	
 		        margin-top: 55px;
 		        margin-left: 60px;	
 		        }
@@ -438,10 +440,10 @@
 
 		        .videotainer iframe{
 		        position: absolute;
-		        width: 70%;
-		        height: 25%;	
-		        margin-top: 40px;
-		        margin-left: 35px;	
+		        width: 60%;
+		        height: 20%;	
+		        margin-top: 53px;
+		        margin-left: 50px;	
 		        }
 
 		        .title{ 	
@@ -512,8 +514,8 @@
 		        .videotainer iframe{
 		        position: absolute;
 		        width: 70%;
-		        height: 25%;	
-		        margin-top: 40px;
+		        height: 20%;	
+		        margin-top: 48px;
 		        margin-left: 35px;	
 		        }
 
